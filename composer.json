@@ -1,5 +1,5 @@
 {
-    "name": "administrator/wechat-pay-lite",
+    "name": "ahlblzk/wechat-pay-lite",
     "description": "wechat pay lite sdk",
     "type": "sdk",
     "require": {},
