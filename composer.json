@@ -1,0 +1,11 @@
+{
+    "name": "administrator/wechat-pay-lite",
+    "description": "wechat pay lite sdk",
+    "type": "sdk",
+    "require": {},
+    "autoload": {
+	    "psr-4": {
+	      "wechatPayLite\\": "src/"	
+	    }
+	}
+}
